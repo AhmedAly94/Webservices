@@ -5,8 +5,12 @@
 - Internet of Things (IoT) devices equipped with networking capabilities can act as clients to a Flask server. These devices can send sensor data, receive commands, and interact with the Flask application using HTTP requests.
 
 -open: openweathermap.org
+
 -create .env in visualstudiocode
+
 -paste APIKey in .env
+
 -run python server.py
+
 -open localhost:8000
 
